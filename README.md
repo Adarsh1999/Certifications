@@ -2,7 +2,7 @@
 # CERTIFICATIONS	
 
 *Hi! This Readme will display all my certifications I have ever done with verified links and images screenshot.*
-##
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Adarsh1999/Certifications/main/rsz_microsoft.png"/>
 </p>
@@ -23,15 +23,15 @@
   <img src="https://raw.githubusercontent.com/Adarsh1999/Certifications/main/rsz_4coursera.png"/>
 </p>
 
-###
- ### - **Fundamentals of Computing**
+
+ ## Fundamentals of Computing
 
 > Fundamentals of Computing Specialization by **Rice University**
-> https://bit.ly/rice-uni-FOC
+
 
 ![Fundamentals of Computing](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~EKE7S95A64V5/CERTIFICATE_LANDING_PAGE~EKE7S95A64V5.jpeg)
+[🔗 Link to  Certificate](https://bit.ly/rice-uni-FOC)
 
-###
  ### - **Software Design and Architecture**
 
 > Software Design and Architecture Specialization by **University of Alberta**
