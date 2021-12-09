@@ -26,7 +26,7 @@
 
  ## Fundamentals of Computing
 
-> Fundamentals of Computing Specialization by **Rice University**
+<!-- > Fundamentals of Computing Specialization by **Rice University** -->
 
 
 ![Fundamentals of Computing](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~EKE7S95A64V5/CERTIFICATE_LANDING_PAGE~EKE7S95A64V5.jpeg)
