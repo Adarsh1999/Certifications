@@ -13,13 +13,12 @@
 
 ![enter image description here](https://raw.githubusercontent.com/Adarsh1999/Certifications/main/agm%20msp.jpeg)
 
-### - **Microsoft Student Ambassadors (2020-2021)**
-
-> https://bit.ly/adarsh-mlsa
+##  Microsoft Student Ambassadors (2020-2021)
 
 ![enter image description here](https://raw.githubusercontent.com/Adarsh1999/Certifications/main/msla%20certi.png)
+ [🔗 Link to  Certificate](https://bit.ly/adarsh-mlsa)
 
-##
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Adarsh1999/Certifications/main/rsz_4coursera.png"/>
 </p>
