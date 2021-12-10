@@ -10,7 +10,6 @@
 
 ## Microsoft Student Partner (2019-2020)
 
-> https://bit.ly/msp-adarsh
 
 ![enter image description here](https://raw.githubusercontent.com/Adarsh1999/Certifications/main/agm%20msp.jpeg)
 
@@ -38,7 +37,7 @@
 ![Software Design and Architecture](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~W2JB284ZAK9M/CERTIFICATE_LANDING_PAGE~W2JB284ZAK9M.jpeg)
 [🔗 Link to  Certificate](https://bit.ly/sda-alberta)
 
- ## Data Structures and Algorithms
+## Data Structures and Algorithms
 > Data Structures and Algorithms Specialization by **University of California San Diego**
 
 ![Data Structures and Algorithms](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~4B6N5W92RTEL/CERTIFICATE_LANDING_PAGE~4B6N5W92RTEL.jpeg)
@@ -62,7 +61,7 @@
 
 [🔗 Link to  Certificate](https://bit.ly/agm-tensorflow-dlai)
 
-## - Programming with Google Go
+## Programming with Google Go
  
 
 > Programming with Google Go Specialization by **University of California**
