@@ -20,7 +20,7 @@
 
 ## Research Paper
 [🔗 Link to Conference](http://icocbi.com/2021/)
-
+![Conference](https://github.com/Adarsh1999/Certifications/raw/main/ICCBI021-2_page-0001.jpg)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Adarsh1999/Certifications/main/rsz_4coursera.png"/>
