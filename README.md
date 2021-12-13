@@ -18,6 +18,9 @@
 ![enter image description here](https://raw.githubusercontent.com/Adarsh1999/Certifications/main/msla%20certi.png)
  [🔗 Link to  Certificate](https://bit.ly/adarsh-mlsa)
 
+## Research Paper
+[🔗 Link to Conference](http://icocbi.com/2021/)
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Adarsh1999/Certifications/main/rsz_4coursera.png"/>
